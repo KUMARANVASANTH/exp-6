@@ -1,0 +1,1 @@
+print("Experiment 6 is completed")
